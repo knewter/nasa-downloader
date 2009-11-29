@@ -1,0 +1,5 @@
+Quickie ruby script to download a given nasa images gallery, ala http://spaceflight.nasa.gov/gallery/images/shuttle/sts-121/ndxpage1.html 
+
+== TO USE ==
+require 'nasa_downloader'
+d = NasaDownloader.new
