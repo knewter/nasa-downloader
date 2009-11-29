@@ -3,3 +3,13 @@ Quickie ruby script to download a given nasa images gallery, ala http://spacefli
 == TO USE ==
 require 'nasa_downloader'
 d = NasaDownloader.new
+
+== DEPENDENCIES ==
+- linux box
+- ruby
+- open-uri
+- hpricot
+- rubygems
+- wget
+
+That should do it.
