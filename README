@@ -13,3 +13,7 @@ d = NasaDownloader.new
 - wget
 
 That should do it.
+
+== Questions? ==
+Q: How do I download another mission?
+A: modify the ruby script, atm.  There's a method in there that has an url to the first page of the gallery - a link to any index page in the gallery will work.
